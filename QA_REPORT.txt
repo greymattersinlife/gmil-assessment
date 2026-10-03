@@ -1,0 +1,6 @@
+PASS - participant app contains assessor-only heading
+PASS - admin app contains assessor-only heading
+PASS - admin app mirrors participant profile
+PASS - admin app includes radar
+PASS - admin route exists
+PASS - report containment css
